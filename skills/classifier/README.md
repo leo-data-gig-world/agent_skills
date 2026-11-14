@@ -59,5 +59,5 @@ TEMPERATURE = 0.1
 
 ## Dependencies
 
-- `llm-wrapper` skill
+- `llm_wrapper` skill
 - `pydantic` for data validation

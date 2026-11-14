@@ -6,7 +6,7 @@ A collection of reusable agent skills for LLM-based applications.
 Available Skills:
     - classifier: Text classification with topic discovery
     - sentinel: Dynamic topic discovery agent
-    - llm-wrapper: Multi-provider LLM interface
+    - llm_wrapper: Multi-provider LLM interface
 """
 
 from skills.classifier.skill import ClassifierSkill, Result
